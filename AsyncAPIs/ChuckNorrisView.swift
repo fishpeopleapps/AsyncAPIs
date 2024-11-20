@@ -5,7 +5,6 @@
 //  Created by Kimberly Brewer on 7/26/23.
 //
 // TODO: Show pop-up with error messages
-// TODO: Move Joke, Error Out
 // TODO: Improve UI
 
 import SwiftUI
